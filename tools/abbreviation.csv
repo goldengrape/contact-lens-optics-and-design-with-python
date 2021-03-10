@@ -1,0 +1,19 @@
+abbreviation, dimension, explain
+BOZR,Back optic zone radius,后光学区半径
+BPR,Back peripheral radius,后周边区半径
+FOZR,Front optic zone radius,前光学区半径
+FPR1,Front peripheral radius,前周边区半径
+BOZD,Back optic zone diameter,后光学区直径
+BPD,Back peripheral zone diameters,后周边区直径
+TD,Total diameter,总直径
+FOZD,Front optic zone diameter,前光学区直径
+FPD,Front peripheral diameters,前周边区直径
+TC,Geometric centre thickness,中心厚度
+TA,Carrier junction thickness,连接处厚度
+TJ,Carrier junction thickness,连接处厚度
+RET,Radial edge thickness,径向边缘厚度
+AET,Axial edge thickness,轴向边缘厚度
+REL,Radial edge lift,径向边缘提升
+AEL,Axial edge lift,轴向边缘提升
+FVP,Front vertex power,前顶焦度
+BVP,Back vertex power,后顶焦度
